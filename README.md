@@ -101,8 +101,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 If you have any questions or need further assistance, feel free to reach out to the project maintainer:
 
-- Your Name: [Mohammad Shuja Uddin](mailto:shujaqurashi2172@gmail.com)
-- GitHub: [yourusername](https://github.com/shuja609)
+- Your Name: [shujaqurashi2172@gmail.com](mailto:shujaqurashi2172@gmail.com)
+- GitHub: [Shuja Uddin](https://github.com/shuja609)
 - LinkedIn: [M Shuja Uddin](https://www.linkedin.com/in/mohammad-shuja-uddin-a95118230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Thank you for using the Cafe Management System! We hope it helps streamline your cafe operations.
