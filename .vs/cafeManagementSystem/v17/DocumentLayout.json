@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|f:\\4th semester\\database systems\\22i-2553_22i-8759_project\\cafemanagementsystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashier_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashier_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addremoveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addremoveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashierorderssection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashierorderssection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashierorderssection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashierorderssection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\removeimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\removeimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\imanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\imanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addacashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addacashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\removeimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\removeimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\removecashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\imanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\imanagerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsectioncustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsectioncustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsectioncustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsectioncustomerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashier_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashier_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cafemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cafemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cafemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cafemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addremoveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addremoveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addacashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addacashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addinventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addinventorymanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addinventorymanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addacashier.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addacashier.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\addacashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\addacashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsectioncustomerview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsectioncustomerview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\foodsection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\foodsection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\cafemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cafemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafemanagementsystem\\staffmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB248E3F-A8E9-42F3-AE58-A7509842B437}|cafeManagementSystem\\cafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\staffmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffManagement.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\StaffManagement.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\StaffManagement.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\StaffManagement.cs",
+              "RelativeToolTip": "cafeManagementSystem\\StaffManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:29:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoveIManager.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveIManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\RemoveIManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveIManager.cs",
+              "RelativeToolTip": "cafeManagementSystem\\RemoveIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:27:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveCashier.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveCashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\RemoveCashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveCashier.cs",
+              "RelativeToolTip": "cafeManagementSystem\\RemoveCashier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:27:17.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cashier.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Cashier.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Cashier.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:22:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddaCashier.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddaCashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.cs",
+              "RelativeToolTip": "cafeManagementSystem\\AddaCashier.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:21:35.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddInventoryManager.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddInventoryManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddInventoryManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddInventoryManager.cs",
+              "RelativeToolTip": "cafeManagementSystem\\AddInventoryManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:21:25.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddInventoryManager.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddInventoryManager.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddInventoryManager.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddInventoryManager.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\AddInventoryManager.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:21:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddaCashier.resx",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.resx",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddaCashier.resx",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.resx",
+              "RelativeToolTip": "cafeManagementSystem\\AddaCashier.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-05T08:21:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddaCashier.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddaCashier.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\AddaCashier.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:20:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffManagement.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\StaffManagement.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\StaffManagement.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\StaffManagement.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\StaffManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:28:02.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RemoveIManager.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveIManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\RemoveIManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\RemoveIManager.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\RemoveIManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:27:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "foodSection.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSection.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSection.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\foodSection.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\foodSection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:51:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddInventoryManager.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddInventoryManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddInventoryManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddInventoryManager.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddInventoryManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:30:26.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddaCashier.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddaCashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddaCashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddaCashier.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddaCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:25:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemoveCashier.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\RemoveCashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\RemoveCashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\RemoveCashier.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\RemoveCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:24:04.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManagerhome.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\IManagerhome.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\IManagerhome.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\IManagerhome.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\IManagerhome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:17:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CafeManager.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CafeManager.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\CafeManager.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CafeManager.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\CafeManager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:17:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CafeManager.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CafeManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\CafeManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CafeManager.cs",
+              "RelativeToolTip": "cafeManagementSystem\\CafeManager.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:08:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CafeManager.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CafeManager.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\CafeManager.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\CafeManager.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\CafeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:04:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\login.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\login.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\login.cs",
+              "RelativeToolTip": "cafeManagementSystem\\login.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAiwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StaffManagement.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\StaffManagement.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\StaffManagement.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\StaffManagement.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\StaffManagement.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:24:22.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Signup.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Signup.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Signup.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Signup.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAADwv5gAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:40:33.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Signup.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Signup.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Signup.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:40:29.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\home.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\home.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\home.cs",
+              "RelativeToolTip": "cafeManagementSystem\\home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:07:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\home.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\home.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\home.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:07:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "foodSection.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSection.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSection.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSection.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\foodSection.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:56:36.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "foodSectionCustomerView.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSectionCustomerView.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSectionCustomerView.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\foodSectionCustomerView.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\foodSectionCustomerView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "foodSectionCustomerView.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSectionCustomerView.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSectionCustomerView.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSectionCustomerView.cs",
+              "RelativeToolTip": "cafeManagementSystem\\foodSectionCustomerView.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:38.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Program.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashierOrdersSection.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CashierOrdersSection.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\CashierOrdersSection.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CashierOrdersSection.cs",
+              "RelativeToolTip": "cafeManagementSystem\\CashierOrdersSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashierOrdersSection.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\CashierOrdersSection.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\CashierOrdersSection.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\CashierOrdersSection.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\CashierOrdersSection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRemoveItem.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddRemoveItem.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddRemoveItem.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddRemoveItem.cs",
+              "RelativeToolTip": "cafeManagementSystem\\AddRemoveItem.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddRemoveItem.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\AddRemoveItem.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\AddRemoveItem.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddRemoveItem.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\AddRemoveItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IManagerhome.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\IManagerhome.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\IManagerhome.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\IManagerhome.cs",
+              "RelativeToolTip": "cafeManagementSystem\\IManagerhome.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Inventory.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Inventory.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Inventory.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Inventory.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Inventory.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "foodSectionCustomerView.Designer.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSectionCustomerView.Designer.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSectionCustomerView.Designer.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSectionCustomerView.Designer.cs",
+              "RelativeToolTip": "cafeManagementSystem\\foodSectionCustomerView.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwPUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\login.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\login.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\login.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cashier_Payment.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier_Payment.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Cashier_Payment.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier_Payment.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Cashier_Payment.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cashier_Payment.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier_Payment.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Cashier_Payment.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Cashier_Payment.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Cashier_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cashier.cs [Design]",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Cashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Cashier.cs [Design]",
+              "RelativeToolTip": "..\\21i-0655_21i-0483_Project\\cafeManagementSystem\\cafeManagementSystem\\Cashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\Cashier.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\Cashier.cs",
+              "RelativeToolTip": "cafeManagementSystem\\Cashier.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "foodSection.cs",
+              "DocumentMoniker": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSection.cs",
+              "RelativeDocumentMoniker": "cafeManagementSystem\\foodSection.cs",
+              "ToolTip": "F:\\4th Semester\\Database Systems\\22i-2553_22i-8759_Project\\cafeManagementSystem\\foodSection.cs",
+              "RelativeToolTip": "cafeManagementSystem\\foodSection.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:04:39.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

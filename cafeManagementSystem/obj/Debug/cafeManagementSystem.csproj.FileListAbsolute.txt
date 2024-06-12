@@ -1,0 +1,102 @@
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe.config
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.pdb
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Properties.Resources.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.exe
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.pdb
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.login.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSection.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.home.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.CafeManager.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Inventory.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.StaffManagement.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddRemoveItem.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Signup.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddaCashier.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveCashier.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddInventoryManager.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveIManager.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier.resources
+C:\Users\user1\Desktop\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.IManagerhome.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe.config
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.pdb
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.AssemblyReference.cache
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddaCashier.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddInventoryManager.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddRemoveItem.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.CafeManager.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSection.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.IManagerhome.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveCashier.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveIManager.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Signup.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Inventory.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.login.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.home.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Properties.Resources.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.StaffManagement.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.GenerateResource.cache
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.exe
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.pdb
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSectionCustomerView.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.CashierOrdersSection.resources
+E:\Codes\Semester #5\DB Lab\Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier_Payment.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe.config
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.AssemblyReference.cache
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddaCashier.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddInventoryManager.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddRemoveItem.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.CafeManager.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier_Payment.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSectionCustomerView.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSection.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.IManagerhome.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.CashierOrdersSection.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveCashier.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveIManager.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Signup.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Inventory.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.login.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.home.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.Properties.Resources.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.StaffManagement.resources
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.GenerateResource.cache
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.CoreCompileInputs.cache
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.exe
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\obj\Debug\cafeManagementSystem.pdb
+F:\4th Semester\Database Systems\21i-0655_21i-0483_Project\cafeManagementSystem\cafeManagementSystem\bin\Debug\cafeManagementSystem.pdb
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe.config
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\bin\Debug\cafeManagementSystem.exe
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\bin\Debug\cafeManagementSystem.pdb
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.AssemblyReference.cache
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddaCashier.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddInventoryManager.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.AddRemoveItem.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.CafeManager.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.Cashier_Payment.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSectionCustomerView.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.foodSection.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.IManagerhome.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.CashierOrdersSection.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveCashier.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.RemoveIManager.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.Signup.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.Inventory.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.login.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.home.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.Properties.Resources.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.StaffManagement.resources
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.GenerateResource.cache
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.csproj.CoreCompileInputs.cache
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.exe
+F:\4th Semester\Database Systems\22i-2553_22i-8759_Project\cafeManagementSystem\obj\Debug\cafeManagementSystem.pdb
